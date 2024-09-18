@@ -1,0 +1,5 @@
+deployments:
+  - modules:
+      - path: ./src
+    regions:
+      - eu-west-1
